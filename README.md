@@ -14,6 +14,7 @@
 - deepseek: https://chat.deepseek.com/
 - gemini: https://gemini.google.com/
 - grok: https://grok.com/
+- microsoft: https://copilot.microsoft.com/
 
 #### شروع کار در محیط های برنامه نویسی
 تو چه محیطی کد بزنیم؟ حتما لپتاپ یا کامپیوتر نیاز داریم؟ سیستم چقدر باید قوی باشه؟ توی گوشی هم میشه کد زد؟ سرویس های آنلاین چطور هستند؟

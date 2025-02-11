@@ -26,8 +26,8 @@
 
 زبان های معروف:
 
-- python (آسون)
-- javascript (در طراحی وبسایت)
+- python
+- javascript
 - java
 - c
 - c++

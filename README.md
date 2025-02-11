@@ -24,6 +24,7 @@
 - programiz: https://www.programiz.com/online-compiler/
 - mycompiler: https://www.mycompiler.io/
 - onlinegdb: https://www.onlinegdb.com/
+- codechef: https://www.codechef.com/ide
 - tutorialspoint: https://www.tutorialspoint.com/online-programming-compilers.htm
 
 ### شروع

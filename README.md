@@ -45,8 +45,8 @@
 هوش مصنوعی های معروف حال حاضر:
 
 - chatgpt: https://chatgpt.com/
-- claude: https://claude.ai/
 - deepseek: https://chat.deepseek.com/
+- claude: https://claude.ai/
 - gemini: https://gemini.google.com/
 - grok: https://grok.com/
 - microsoft: https://copilot.microsoft.com/
